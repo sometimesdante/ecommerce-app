@@ -1,0 +1,1705 @@
+{
+  "next_cursor": "eyJsaW1pdCI6MTAwLCJvZmZzZXQiOjEwMCwiY3Vyc29yIjoiIiwicGFyYW1zIjpudWxsfQ==",
+  "items": [
+    {
+      "id": "pste_cmckmi471ign201hg1qnui4s3",
+      "card_id": "ncard_cm2decbnh0dzu0h676e37wllp",
+      "description": "Costa Vida",
+      "amount": {
+        "amount": 2150,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TST* COSTA VIDA 0076 -",
+        "mcc": "5812",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmckmg5yvig6i01hgqg3oexez",
+      "card_id": "ncard_cmc21udyr33jv0h85smqiqe97",
+      "description": "KrispCall",
+      "amount": {
+        "amount": 4000,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-07-01",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "KRISPCALL",
+        "mcc": "5734",
+        "country": "AUS"
+      }
+    },
+    {
+      "id": "pste_cmckmexgwieum01hgh41enouz",
+      "card_id": "ncard_cm3rn6s220by30h48e81kedxg",
+      "description": "Linkedin",
+      "amount": {
+        "amount": 50405,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-07-01",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "LinkedIn P473695176",
+        "mcc": "5968",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmckmeqy9mua101jcv3gut4am",
+      "card_id": "ncard_cl887xgv61kte0nsuj9twp1fj",
+      "description": "Chargebee",
+      "amount": {
+        "amount": 693510,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-07-01",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "Chargebee",
+        "mcc": "5045",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmckmcvoxgtlh01hjaf3ynapr",
+      "card_id": "ncard_cm5mmz3xq2gia0f23dmwwa1zh",
+      "description": "Uber ",
+      "amount": {
+        "amount": 1296,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   * PENDING",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmckm5pfz6m1n01ldwfc5ic4s",
+      "card_id": "ncard_cl87xyg4k0pom0nsucjveq7bq",
+      "description": "Webflow",
+      "amount": {
+        "amount": 14300,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-07-01",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "WEBFLOW.COM",
+        "mcc": "7372",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmckm524q6l6g01ldrdw0cmq6",
+      "card_id": "ncard_cmc21udyr33jv0h85smqiqe97",
+      "description": "Suno, Inc",
+      "amount": {
+        "amount": 9600,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-07-01",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "SUNO INC.",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmckhj919ls0v01jcoa6ebx82",
+      "card_id": "ncard_cl887xgv61kte0nsuj9twp1fj",
+      "description": "E-hawk",
+      "amount": {
+        "amount": 40000,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-07-01",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "EHAWK.NET",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmckgz4amsnfv01l8d7677wyq",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "Wework",
+      "amount": {
+        "amount": 5946,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-07-01",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "WWW.WEWORK.COM",
+        "mcc": "7399",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcke5xrtreex01l8ymsus5k6",
+      "card_id": "ncard_cma2gs48n0stn0i46259aj4hj",
+      "description": "Wework",
+      "amount": {
+        "amount": 54194,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-07-01",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "WeWork UK",
+        "mcc": "6513",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcke5wzwc4q001j9xbdkordg",
+      "card_id": "ncard_cm6z0vf1dem0x0j74oigrtej3",
+      "description": "Kitchen Eighty-Eight",
+      "amount": {
+        "amount": 18262,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TST* KITCHEN EIGHTY-EI",
+        "mcc": "5812",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmckdumycqzjc01l8r9jb1sb6",
+      "card_id": "ncard_cl864ps7y2v610pppqtyih8cx",
+      "description": "Slack",
+      "amount": {
+        "amount": 2240,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-07-01",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "SLACK TV48S6MQS",
+        "mcc": "5734",
+        "country": "IRL"
+      }
+    },
+    {
+      "id": "pste_cmck6szh0agk001hjfe86yzwu",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "chaiiwala ️Tooting",
+      "amount": {
+        "amount": 568,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "Chaiiwala",
+        "mcc": "5812",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmck6rbzuaekf01hjnxeaghrc",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "Suno, Inc",
+      "amount": {
+        "amount": 1000,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "SUNO INC.",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmck6oim8abe001hj3qdg9j4l",
+      "card_id": "ncard_cl864ps7y2v610pppqtyih8cx",
+      "description": "Cursor Ai Powered Ide",
+      "amount": {
+        "amount": 20644,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-07-01",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "CURSOR USAGE  MAY",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcjw3ow7l41301l8e4tc71q1",
+      "card_id": "ncard_cm71k1w0l0aap0i63upd93y2y",
+      "description": "THNKS* GR#3290520",
+      "amount": {
+        "amount": 3087,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "THNKS* GR#3290520",
+        "mcc": "7399",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcjvze7w300y01ldbj49supl",
+      "card_id": "ncard_cmcjanyy301mf0h82g4t2n7qi",
+      "description": "Vouch Specialty Pol...",
+      "amount": {
+        "amount": 2880921,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "VOUCH SPECIALTY POL...",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcjvqiwyknjz01l8ciu5yfkl",
+      "card_id": "ncard_cmagesvwbt6xv0f99s92x8gy0",
+      "description": "Cognition Labs (Devin)",
+      "amount": {
+        "amount": 2200,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "COGNITION LABS (DEVIN)",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcjvnm1i2kd101ld3trzlbhq",
+      "card_id": "ncard_cm71k1w0l0aap0i63upd93y2y",
+      "description": "THNKS* GR#3291077",
+      "amount": {
+        "amount": 1918,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "THNKS* GR#3291077",
+        "mcc": "7399",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcjvmoul2jaf01ld4rcbz2za",
+      "card_id": "ncard_cm71k1w0l0aap0i63upd93y2y",
+      "description": "THNKS* GR#3290462",
+      "amount": {
+        "amount": 2470,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "THNKS* GR#3290462",
+        "mcc": "7399",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcjuz8bj1q6c01ld43glb661",
+      "card_id": "ncard_cm5fw08vf033w0j05zp8f67hr",
+      "description": "Suno, Inc",
+      "amount": {
+        "amount": 1000,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-07-01",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "SUNO INC.",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcj5rz3ldwui01l8jnfv2lr5",
+      "card_id": "ncard_cmagesvwbt6xv0f99s92x8gy0",
+      "description": "Cognition Labs (Devin)",
+      "amount": {
+        "amount": 2200,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "COGNITION LABS (DEVIN)",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcj5rxvdfy6o01jscu1hne9o",
+      "card_id": "ncard_cm3rn6s220by30h48e81kedxg",
+      "description": "Linkedin",
+      "amount": {
+        "amount": 33793,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "LinkedIn P472194736",
+        "mcc": "5968",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmciy0okydkth01jsc2e3gcyp",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "Tfl Travel Charge",
+      "amount": {
+        "amount": 880,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-29",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TfL Travel Charge",
+        "mcc": "4111",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcishgbzdy3v01hg57o8a89r",
+      "card_id": "ncard_cl864ps7y2v610pppqtyih8cx",
+      "description": "Sentry",
+      "amount": {
+        "amount": 2900,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-30",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "SENTRY",
+        "mcc": "7372",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcisd6r7cmvd01jsxczwt86z",
+      "card_id": "ncard_cla4fwh94397n0om50pj7k4et",
+      "description": "Chatgpt",
+      "amount": {
+        "amount": 2000,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-29",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "OPENAI *CHATGPT SUBSCR",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcij0f6ehcj701jcovz6j2mt",
+      "card_id": "ncard_cmagesvwbt6xv0f99s92x8gy0",
+      "description": "Claude",
+      "amount": {
+        "amount": 25000,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-29",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "ANTHROPIC",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmciizbuhbdj801js1nkzxas0",
+      "card_id": "ncard_cl6now4rl01rc0os9bbxmx6mq",
+      "description": "CLIPTO MONTHLY JUN#4",
+      "amount": {
+        "amount": 2499,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-29",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "CLIPTO MONTHLY JUN#4",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmciix8t2c7r101hg1cmfnq4v",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "Uber ",
+      "amount": {
+        "amount": 1405,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-29",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   * PENDING",
+        "mcc": "4121",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmciix6kcb63f01jsoxzwwp87",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "Uber ",
+      "amount": {
+        "amount": 1556,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-29",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   * PENDING",
+        "mcc": "4121",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcig9xw26sag01hurxay8wrk",
+      "card_id": "ncard_cmagesvwbt6xv0f99s92x8gy0",
+      "description": "Cognition Labs (Devin)",
+      "amount": {
+        "amount": 2200,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-29",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "COGNITION LABS (DEVIN)",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcig6a216nct01huqqchmbla",
+      "card_id": "ncard_cm3rn6s220by30h48e81kedxg",
+      "description": "Linkedin",
+      "amount": {
+        "amount": 40690,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-29",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "LinkedIn P471267306",
+        "mcc": "5968",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcig4tzcb4r301hg4tfteqwt",
+      "card_id": "ncard_cma2cpuup0is50h29qgny8i1x",
+      "description": "Iframely",
+      "amount": {
+        "amount": 3500,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-29",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "IFRAMELY.COM API",
+        "mcc": "7372",
+        "country": "CAN"
+      }
+    },
+    {
+      "id": "pste_cmcig1t6w685101hu3jt4sadj",
+      "card_id": "ncard_cl864ps7y2v610pppqtyih8cx",
+      "description": "Openai",
+      "amount": {
+        "amount": 15007,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-29",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "OPENAI",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcifzacwal6i01hghr5nfduf",
+      "card_id": "ncard_cm6j78ul200wd0e49zltpdmcc",
+      "description": "Zapier",
+      "amount": {
+        "amount": 28350,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-29",
+      "posted_at_date": "2025-06-30",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "ZAPIER.COM/CHARGE",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmchr266mc1j701jch00jaafh",
+      "card_id": "ncard_cla4fwh94397n0om50pj7k4et",
+      "description": "Mavenlink",
+      "amount": {
+        "amount": 13000,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-29",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "MAVENLINK",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmchqy3p6bjw601jci00vr6aq",
+      "card_id": "ncard_cm5mmz3xq2gia0f23dmwwa1zh",
+      "description": "Uber HQ",
+      "amount": {
+        "amount": 3446,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   *TRIP",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmchbx1rw6exo01jc1vgd9mpe",
+      "card_id": "ncard_cm9733frv0dbh0i0786d9i1mo",
+      "description": "ATLYS INDIA PRIVATE LI",
+      "amount": {
+        "amount": 26859,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "ATLYS INDIA PRIVATE LI",
+        "mcc": "9399",
+        "country": "IND"
+      }
+    },
+    {
+      "id": "pste_cmchbqaew8onr01hgwdaz038f",
+      "card_id": "ncard_cmc21udyr33jv0h85smqiqe97",
+      "description": "D&M FOOD & WINE",
+      "amount": {
+        "amount": 2977,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "D&M FOOD & WINE",
+        "mcc": "5411",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmchbligw88e201hghccxr4m2",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "chaiiwala ️Tooting",
+      "amount": {
+        "amount": 1320,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-26",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "Chaiiwala",
+        "mcc": "5812",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmchbknaj85hb01hg18lhnrmr",
+      "card_id": "ncard_cm6z0vf1dem0x0j74oigrtej3",
+      "description": "The Bridge Bar",
+      "amount": {
+        "amount": 6668,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "THE BRIDGE BAR 1960",
+        "mcc": "5812",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmch3s7o77mfz01hg111h69ju",
+      "card_id": "ncard_cm9733frv0dbh0i0786d9i1mo",
+      "description": "Make my trip",
+      "amount": {
+        "amount": 29243,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "Make My Trip",
+        "mcc": "4722",
+        "country": "IND"
+      }
+    },
+    {
+      "id": "pste_cmch3msalcfta01l8ca637wrd",
+      "card_id": "ncard_cm9733frv0dbh0i0786d9i1mo",
+      "description": "Make my trip",
+      "amount": {
+        "amount": 10308,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "Make My Trip",
+        "mcc": "4722",
+        "country": "IND"
+      }
+    },
+    {
+      "id": "pste_cmch3c6rwbu8n01l8g08d3xmm",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "Tesco Superstore",
+      "amount": {
+        "amount": 1157,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TESCO STORES 2586",
+        "mcc": "5411",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmch3bzsm783q01hgc6uc8yev",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "Uber ",
+      "amount": {
+        "amount": 7511,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   * PENDING",
+        "mcc": "4121",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmch3bu0k77h901hg8p1qxcnp",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "Uber Eats",
+      "amount": {
+        "amount": 3202,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   * EATS PENDING",
+        "mcc": "5812",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmch3bh62767r01hg9qbco20g",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "Uber ",
+      "amount": {
+        "amount": 2548,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   *TRIP",
+        "mcc": "4121",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmch3b9l8bnkg01l875yox7o4",
+      "card_id": "ncard_cm6z0vf1dem0x0j74oigrtej3",
+      "description": "Uber ",
+      "amount": {
+        "amount": 7759,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   *TRIP",
+        "mcc": "4121",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmch0hk766uwf01hg2qaujkgv",
+      "card_id": "ncard_cm9733frv0dbh0i0786d9i1mo",
+      "description": "PAY*Cleartrip Pvt. Ltd",
+      "amount": {
+        "amount": 87184,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "PAY*Cleartrip Pvt. Ltd",
+        "mcc": "4722",
+        "country": "IND"
+      }
+    },
+    {
+      "id": "pste_cmch0at1k6bbx01hg8mfuk1pu",
+      "card_id": "ncard_cm3rn6s220by30h48e81kedxg",
+      "description": "Linkedin",
+      "amount": {
+        "amount": 68642,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "LinkedIn P469770826",
+        "mcc": "5968",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcgzsbwz72we01j9bl8024he",
+      "card_id": "ncard_cl87xyg4k0pom0nsucjveq7bq",
+      "description": "Lusha.co",
+      "amount": {
+        "amount": 34800,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "LUSHA",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcgzrtlvakk601l8xv1ies8b",
+      "card_id": "ncard_cl864ps7y2v610pppqtyih8cx",
+      "description": "Chatgpt",
+      "amount": {
+        "amount": 20000,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "OPENAI *CHATGPT SUBSCR",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcgzht5ca4z001l8ixoye4ce",
+      "card_id": "ncard_cmc9bd2mm7vn10i1586bdh5gi",
+      "description": "Uber ",
+      "amount": {
+        "amount": 5194,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   * PENDING",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcgzgc6fa04a01l8eshm30kr",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "Taco Bell",
+      "amount": {
+        "amount": 2800,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TACO BELL 035315",
+        "mcc": "5814",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcgzev2v6b8c01j961txlm41",
+      "card_id": "ncard_cla4fwh94397n0om50pj7k4et",
+      "description": "Mixpanel (refund)",
+      "amount": {
+        "amount": -157128,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-04",
+      "posted_at_date": "2025-06-29",
+      "type": "REFUND",
+      "merchant": {
+        "raw_descriptor": "MIXPANEL, INC.",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcgzehrx9u1z01l8sxfly9tp",
+      "card_id": "ncard_cla4fwh94397n0om50pj7k4et",
+      "description": "Mixpanel (refund)",
+      "amount": {
+        "amount": -101750,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-05-04",
+      "posted_at_date": "2025-06-29",
+      "type": "REFUND",
+      "merchant": {
+        "raw_descriptor": "MIXPANEL, INC.",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcgz9y6m54xu01hgx6a9n824",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "365 Retail Markets",
+      "amount": {
+        "amount": 219,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "365 MARKET N 888 432-3",
+        "mcc": "5814",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcgz6shm92an01l8ukz0bbcq",
+      "card_id": "ncard_cm0gs1omc7ggg0g047hoi6mbp",
+      "description": "Honest Eatery",
+      "amount": {
+        "amount": 1657,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TST*HONEST EATERY- FOO",
+        "mcc": "5814",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcgz5oqy4ocl01hgun5b94m4",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "Bourbon Pub",
+      "amount": {
+        "amount": 4460,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "6221 SFO BOURBON PUB",
+        "mcc": "5812",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcgz4m6b59z001j9v2t2g3rf",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "Hotel Adagio, Autograph Collection",
+      "amount": {
+        "amount": 8877,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-25",
+      "posted_at_date": "2025-06-29",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "HOTEL ADAGIO AUTOGRA",
+        "mcc": "3826",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcg6mkq89ubi01jswf22p7xv",
+      "card_id": "ncard_cmc21udyr33jv0h85smqiqe97",
+      "description": "Tfl Travel Charge",
+      "amount": {
+        "amount": 823,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TfL Travel Charge",
+        "mcc": "4111",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcg6k1rq9lna01jse4994vje",
+      "card_id": "ncard_cm5fw08vf033w0j05zp8f67hr",
+      "description": "Tfl Travel Charge",
+      "amount": {
+        "amount": 1262,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TfL Travel Charge",
+        "mcc": "4111",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcg6iqzr2b7801hut9sfs7ye",
+      "card_id": "ncard_cm6z0vf1dem0x0j74oigrtej3",
+      "description": "Tfl Travel Charge",
+      "amount": {
+        "amount": 1262,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TfL Travel Charge",
+        "mcc": "4111",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcg6i8k42l6801jcgg6nkomc",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "Tfl Travel Charge",
+      "amount": {
+        "amount": 823,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TfL Travel Charge",
+        "mcc": "4111",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcg3hav51frm01hun8he1111",
+      "card_id": "ncard_cl87xyg4k0pom0nsucjveq7bq",
+      "description": "Sendspark",
+      "amount": {
+        "amount": 14900,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-28",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "SENDSPARK.COM",
+        "mcc": "7399",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfxspfm7cmg01jsd96vpk6m",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "Uber HQ",
+      "amount": {
+        "amount": 700,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   *TRIP",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfxe8lp0n8w01jcshpr3695",
+      "card_id": "ncard_cm2decbnh0dzu0h676e37wllp",
+      "description": "Lyft",
+      "amount": {
+        "amount": 2520,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-26",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "LYFT.COM",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfx9k0q00zk01iblqplmfg1",
+      "card_id": "ncard_cmc9bd2mm7vn10i1586bdh5gi",
+      "description": "Uber HQ",
+      "amount": {
+        "amount": 758,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   *TRIP",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfwy9d07pn201l8fzqfavsq",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "Uber HQ",
+      "amount": {
+        "amount": 6863,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   *TRIP",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfwy3jd7olm01l8qdhvrrts",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "Uber ",
+      "amount": {
+        "amount": 2496,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   * PENDING",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfwpc3w6w2k01l8cmi7c4k3",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "Intelsat",
+      "amount": {
+        "amount": 800,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "WIFIONBOARD ALASKA",
+        "mcc": "4816",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfouefm5c7601jsvd4gf17k",
+      "card_id": "ncard_cm71k1w0l0aap0i63upd93y2y",
+      "description": "THNKS* GR#3288824",
+      "amount": {
+        "amount": 3087,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "THNKS* GR#3288824",
+        "mcc": "7399",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfoqjny55sb01jsmjquihi6",
+      "card_id": "ncard_cm71k1w0l0aap0i63upd93y2y",
+      "description": "THNKS* GR#3288830",
+      "amount": {
+        "amount": 3087,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "THNKS* GR#3288830",
+        "mcc": "7399",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfop3nm512g01js7bvhw7df",
+      "card_id": "ncard_cm71k1w0l0aap0i63upd93y2y",
+      "description": "THNKS* GR#3288826",
+      "amount": {
+        "amount": 3087,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "THNKS* GR#3288826",
+        "mcc": "7399",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfomgx14rtg01jsudvn5xb5",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "Tesco Superstore",
+      "amount": {
+        "amount": 809,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TESCO STORES 5244",
+        "mcc": "5411",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcfom7rv4qsy01jsz6fdzczt",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "Bel Clift Market",
+      "amount": {
+        "amount": 1448,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "BEL CLIFF MARKET",
+        "mcc": "5499",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfoldjh5fcy01l85g7adzc1",
+      "card_id": "ncard_cm5fw08vf033w0j05zp8f67hr",
+      "description": "Social Impact",
+      "amount": {
+        "amount": 2638,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "SumUp  *Social Impact",
+        "mcc": "5812",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcfolc374n6p01jsfxxlitwh",
+      "card_id": "ncard_cmc0l2eghxrrw0h37gfmszl8w",
+      "description": "Social Impact",
+      "amount": {
+        "amount": 1532,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "SumUp  *Social Impact",
+        "mcc": "5812",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcfl40t348zk01js6idzz6qg",
+      "card_id": "ncard_cm3rn6s220by30h48e81kedxg",
+      "description": "Linkedin",
+      "amount": {
+        "amount": 66227,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "LinkedIn P468215496",
+        "mcc": "5968",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfl2rff4or801l8uzggeng4",
+      "card_id": "ncard_cmagesvwbt6xv0f99s92x8gy0",
+      "description": "Lovable",
+      "amount": {
+        "amount": 8000,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "LOVABLE",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfkz0342tn901j9vkvfc44x",
+      "card_id": "ncard_cl87xyg4k0pom0nsucjveq7bq",
+      "description": "Synthesia Limited",
+      "amount": {
+        "amount": 2405,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "SYNTHESIA LIMITED",
+        "mcc": "5734",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcfkxbya2ocu01j9fddwu1yx",
+      "card_id": "ncard_cm2decbnh0dzu0h676e37wllp",
+      "description": "Ritual Coffee Roasters",
+      "amount": {
+        "amount": 960,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-26",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TST*RITUAL COFFEE AT S",
+        "mcc": "5812",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfku0tu2chy01j970z3zmqg",
+      "card_id": "ncard_cm6z0vf1dem0x0j74oigrtej3",
+      "description": "Turmeric Kitchen - Pad",
+      "amount": {
+        "amount": 21897,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "Turmeric Kitchen - Pad",
+        "mcc": "5812",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcfktm282b0f01j9vptxwt2g",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "Wework",
+      "amount": {
+        "amount": 3500,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "WWW.WEWORK.COM",
+        "mcc": "7399",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfkt20g3tyx01l8khjgb4se",
+      "card_id": "ncard_cm2decbnh0dzu0h676e37wllp",
+      "description": "Hotel Adagio, Autograph Collection",
+      "amount": {
+        "amount": 75786,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-24",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "HOTEL ADAGIO AUTOGRA",
+        "mcc": "3826",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfkt0op28to01j9emp4phyk",
+      "card_id": "ncard_cmc9bd2mm7vn10i1586bdh5gi",
+      "description": "Uber ",
+      "amount": {
+        "amount": 3792,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-26",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   * PENDING",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfksu513t7p01l8awjg4n57",
+      "card_id": "ncard_cm5fw08vf033w0j05zp8f67hr",
+      "description": "Ippudo ",
+      "amount": {
+        "amount": 3823,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "Ippudo",
+        "mcc": "5812",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcfksrz527zo01j9wbrbhxgy",
+      "card_id": "ncard_cm71k1w0l0aap0i63upd93y2y",
+      "description": "THNKS* GR#3287512",
+      "amount": {
+        "amount": 1235,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "THNKS* GR#3287512",
+        "mcc": "7399",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfkmrav394m01l8t9fxpfea",
+      "card_id": "ncard_cl864ps7y2v610pppqtyih8cx",
+      "description": "Freshworks",
+      "amount": {
+        "amount": 50300,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "FRESHWORKS INC",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcfkb8j81kpd01jsatt2wljj",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "TST*DAMN FINE PIZZA -",
+      "amount": {
+        "amount": 13444,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-28",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TST*DAMN FINE PIZZA -",
+        "mcc": "5812",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcewef1b00f901lu6uw1a6pr",
+      "card_id": "ncard_cmc21udyr33jv0h85smqiqe97",
+      "description": "Tfl Travel Charge",
+      "amount": {
+        "amount": 408,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-26",
+      "posted_at_date": "2025-06-27",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TfL Travel Charge",
+        "mcc": "4111",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcewbxi975vx01mwoxnkejyf",
+      "card_id": "ncard_cm2decbnh0dzu0h676e37wllp",
+      "description": "Uber ",
+      "amount": {
+        "amount": 3891,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-26",
+      "posted_at_date": "2025-06-27",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   * PENDING",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcewbqu2c8wo01obhdko2e3o",
+      "card_id": "ncard_cmc9bd2mm7vn10i1586bdh5gi",
+      "description": "Uber HQ",
+      "amount": {
+        "amount": 4193,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-26",
+      "posted_at_date": "2025-06-27",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   *TRIP",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcewbn7mc8nq01obt50zrze2",
+      "card_id": "ncard_cmagesvwbt6xv0f99s92x8gy0",
+      "description": "Cognition Labs (Devin)",
+      "amount": {
+        "amount": 2200,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-27",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "COGNITION LABS (DEVIN)",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcewaykd6bfl01nkgw6jqj6l",
+      "card_id": "ncard_cm2decbnh0dzu0h676e37wllp",
+      "description": "Uber HQ",
+      "amount": {
+        "amount": 590,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-26",
+      "posted_at_date": "2025-06-27",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   *TRIP",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcew7w0564ad01nkle6dct5t",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "Uber HQ",
+      "amount": {
+        "amount": 3598,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-27",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "UBER   *TRIP",
+        "mcc": "4121",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcew50bx5x8801nkxayiw63u",
+      "card_id": "ncard_cl864ps7y2v610pppqtyih8cx",
+      "description": "Chatgpt",
+      "amount": {
+        "amount": 20000,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-27",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "OPENAI *CHATGPT SUBSCR",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcew423e6nsx01mwb0nffzcn",
+      "card_id": "ncard_cl864ps7y2v610pppqtyih8cx",
+      "description": "Openai",
+      "amount": {
+        "amount": 15001,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-27",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "OPENAI",
+        "mcc": "5734",
+        "country": "USA"
+      }
+    },
+    {
+      "id": "pste_cmcew1n4y6i1c01mw04t4v5ny",
+      "card_id": "ncard_cm5fw08vf033w0j05zp8f67hr",
+      "description": "Tfl Travel Charge",
+      "amount": {
+        "amount": 899,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-26",
+      "posted_at_date": "2025-06-27",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "TfL Travel Charge",
+        "mcc": "4111",
+        "country": "GBR"
+      }
+    },
+    {
+      "id": "pste_cmcevzvfc5l3z01nk57v20hmf",
+      "card_id": "ncard_clx4pzdd66x2l0h60t5cln9dm",
+      "description": "Other Avenues Grocery Cooperative",
+      "amount": {
+        "amount": 1674,
+        "currency": "USD"
+      },
+      "initiated_at_date": "2025-06-27",
+      "posted_at_date": "2025-06-27",
+      "type": "PURCHASE",
+      "merchant": {
+        "raw_descriptor": "Other Avenues Grocery",
+        "mcc": "5411",
+        "country": "USA"
+      }
+    }
+  ]
+}
